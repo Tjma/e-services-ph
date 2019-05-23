@@ -1,6 +1,15 @@
-.navbar-brand {
-    position: relative;
-    background: url(/images/logo.png);
-    width: 100px;
-    left: 100px;
+.navbar {
+    background-color: #373a6d;
 }
+
+.navbar-brand {
+    font-size: 40px;
+    font-weight: bolder;
+    padding-top: 5px;
+}
+
+a.navbar-brand {
+    padding: 0px;
+    margin-left: 10%;
+    margin-right: 10%;
+ }
